@@ -24,7 +24,7 @@ A strong internet connection (for downloading the model and dataset)
 Bash
 
 git clone https://github.com/Silverfang180/Crop_Disease_Detection-/tree/main.git
-- cd your-repo-name
+- cd Crop_Disease_Detection-
 
 ### 2. Set up a virtual environment:
 
