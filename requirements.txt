@@ -1,0 +1,15 @@
+# Web App Framework
+streamlit
+
+# Core ML & Deep Learning
+tensorflow
+numpy
+
+# Image Processing & Data Handling
+opencv-python-headless
+Pillow
+pandas
+scikit-learn
+
+# Visualization
+matplotlib
