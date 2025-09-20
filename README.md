@@ -12,38 +12,33 @@ Cutting-Edge Tech: We used a Convolutional Neural Network (CNN), the gold standa
 Ready to try it out? Here’s how to get this project up and running on your machine.
 
 ## Prerequisites
-Python 3.8+
+ - Python 3.8+
 
-pip
+ - pip
 
-A strong internet connection (for downloading the model and dataset)
+- A strong internet connection (for downloading the model and dataset)
 
 ## Installation
 ### 1. Clone the repository:
 
-Bash
 
-git clone https://github.com/Silverfang180/Crop_Disease_Detection-/tree/main.git
-- cd Crop_Disease_Detection-
+- git clone https://github.com/Silverfang180/Crop_Disease_Detection-/tree/main.git
+ - cd Crop_Disease_Detection
 
 ### 2. Set up a virtual environment:
 
-Bash
-
-python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+- python -m venv venv
+- source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
 ### 3. Install dependencies:
 
-Bash
 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 # 💻 How to Use It
 ## Classify a Leaf Image
 Simply run the main script with the path to your image:
 
-Bash
 
 python predict.py --image_path "path/to/your/leaf_image.jpg"
 The system will output the predicted class (e.g., "Healthy," "Early Blight," "Late Blight") and a confidence score.
