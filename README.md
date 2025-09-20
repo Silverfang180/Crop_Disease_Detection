@@ -66,8 +66,8 @@ Here's how it works:
 
 5. This process allows the model to learn the subtle visual clues that distinguish a healthy leaf from a diseased one, just like a trained botanist would.
 
-# 🤝 Join Our Mission
-We believe this technology can make a real difference. If you're a developer, a data scientist, or just someone passionate about sustainable agriculture, we'd love for you to contribute! You can:
+# 🤝 contribute!!!
+We believe this technology can make a real difference. If you're a developer, a data scientist, or just someone passionate about sustainable agriculture, I love for you to contribute! You can:
 
 Add more languages.
 
