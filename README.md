@@ -22,7 +22,7 @@ Ready to try it out? Here’s how to get this project up and running on your mac
 ### 1. Clone the repository:
 
 
-- git clone https://github.com/Silverfang180/Crop_Disease_Detection-/tree/main.git
+- git clone https://github.com/Silverfang180/Crop_Disease_Detection/tree/main.git
  - cd Crop_Disease_Detection
 
 ### 2. Set up a virtual environment:
